@@ -1,4 +1,4 @@
 "gprec"
 "GIT DEMO"
-"Git demo"
+"Git Demo"
 "GIT"
